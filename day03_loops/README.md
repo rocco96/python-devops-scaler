@@ -1,10 +1,11 @@
+# 🔁 Day 3 – Loops in Python
+
 ![GitHub repo size](https://img.shields.io/github/repo-size/rocco96/python-devops-scaler)
 ![GitHub language count](https://img.shields.io/github/languages/count/rocco96/python-devops-scaler)
 ![GitHub top language](https://img.shields.io/github/languages/top/rocco96/python-devops-scaler)
 
+---
 
-
-# Day 3 - Loops & Control Flow in Python 🚀
 
 This folder contains examples and practice problems related to **loops**, **range**, **break/continue**, **iterables**, and **control flow** in Python. These are essential for building logic and automation scripts in DevOps and backend systems.
 
