@@ -1,6 +1,8 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/rocco96/python-devops-scaler)
 ![GitHub language count](https://img.shields.io/github/languages/count/rocco96/python-devops-scaler)
 ![GitHub top language](https://img.shields.io/github/languages/top/rocco96/python-devops-scaler)
+![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=rocco96&show_icons=true&theme=radical)
+![Profile views](https://komarev.com/ghpvc/?username=rocco96)
 
 
 # Day 3 - Loops & Control Flow in Python 🚀
